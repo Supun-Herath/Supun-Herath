@@ -31,8 +31,8 @@ Stay tuned for more personal and collaborative projects!
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun-Herath&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun-Herath&layout=compact&theme=gruvbox)
 
 ## 🤝 Let's Connect!
 
