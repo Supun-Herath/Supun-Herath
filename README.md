@@ -31,8 +31,9 @@ Stay tuned for more personal and collaborative projects!
 
 ## 📈 GitHub Stats
 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supun-Herath&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supun-Herath&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Supun-Herath&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Supun-Herath&theme=github_dark)
+
 
 ## 🤝 Let's Connect!
 
