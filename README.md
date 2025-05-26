@@ -38,7 +38,7 @@ Stay tuned for more personal and collaborative projects!
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://x.com/sxupun?s=21))
 - 🐦 [Twitter]([https://twitter.com/your-handle](https://x.com/sxupun?s=21))
-- 📬 Email: youremail@example.com
+- 📬 Email: dev.supunherath@gmail.com
 
 ---
 
