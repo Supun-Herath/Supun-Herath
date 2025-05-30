@@ -37,8 +37,8 @@ Stay tuned for more personal and collaborative projects!
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/supun-herath-470a7a161/)
-- 🐦 [Twitter](https://x.com/sxupun?s=21)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/supun-herath-470a7a161/)
+- 🐦 X: [X](https://x.com/sxupun?s=21)
 - 📬 Email: dev.supunherath@gmail.com
 
 ---
