@@ -1,1 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Supun Herath - Cybersecurity Undergraduate">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0f3d2e"/>
+      <stop offset="100%" stop-color="#00a844"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#69f0ae"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00e676" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00e676" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00e676" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00e676" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="900" height="260" rx="18"/></clipPath>
+  </defs>
 
+  <g clip-path="url(#round)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <rect width="900" height="260" fill="url(#grid)"/>
+
+    <!-- scanning line -->
+    <rect x="0" y="-60" width="900" height="60" fill="url(#scan)">
+      <animate attributeName="y" from="-60" to="260" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- terminal window dots -->
+    <circle cx="34" cy="32" r="6" fill="#ff5f56"/>
+    <circle cx="56" cy="32" r="6" fill="#ffbd2e"/>
+    <circle cx="78" cy="32" r="6" fill="#27c93f"/>
+    <text x="110" y="37" font-family="Consolas, Menlo, monospace" font-size="13" fill="#9fe8c0" fill-opacity="0.8">supun@secure-lab:~</text>
+
+    <!-- prompt -->
+    <text x="450" y="98" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#00e676">$ whoami</text>
+
+    <!-- name -->
+    <text x="450" y="160" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="url(#title)" letter-spacing="2">
+      SUPUN HERATH
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="450" y="200" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="19" fill="#d7ffe9">
+      Cybersecurity Undergraduate  |  Aspiring Security Analyst
+    </text>
+
+    <!-- blinking cursor -->
+    <rect x="450" y="214" width="14" height="4" fill="#00e676">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#00e676" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
